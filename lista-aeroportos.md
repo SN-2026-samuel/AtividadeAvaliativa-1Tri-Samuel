@@ -1,4 +1,2 @@
-# Estado:
-Todos
 # Aeroportos:
-Todos os aeroportos brasileiros
+SBCT, SBLO, SBFI e SBMG
