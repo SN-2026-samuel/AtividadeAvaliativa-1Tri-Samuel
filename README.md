@@ -5,7 +5,7 @@ para exibição de voos brasileiros em tempo real.
 
 Organização GitHub: [github.com/SN-2026](https://github.com/SN-2026)  
 Repositório: [github.com/SN-2026/04-05-2026-opensky](https://github.com/SN-2026/04-05-2026-opensky)  
-Site publicado: [SN-2026.github.io/04-05-2026-opensky]([https://SN-2026.github.io/04-05-2026-opensky/](https://sn-2026-samuel.github.io/AtividadeAvaliativa-1Tri-Samuel/))
+Site publicado: [SN-2026.github.io/04-05-2026-opensky](https://sn-2026-samuel.github.io/AtividadeAvaliativa-1Tri-Samuel/)
 
 ---
 
