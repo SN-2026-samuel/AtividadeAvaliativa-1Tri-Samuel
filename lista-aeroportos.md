@@ -1,4 +1,4 @@
 # Estado:
-Paraná;
+Paraná
 # Aeroportos:
-SBCT, SBFI, SBLO e SBMG;
+Todos os aeroportos brasileiros
