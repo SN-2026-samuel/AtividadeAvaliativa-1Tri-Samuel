@@ -1,4 +1,4 @@
 # Estado:
-Paraná
+Todos
 # Aeroportos:
 Todos os aeroportos brasileiros
