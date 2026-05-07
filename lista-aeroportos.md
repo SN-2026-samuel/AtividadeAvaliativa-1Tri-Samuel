@@ -1,2 +1,2 @@
-Estado: Parana;
-Aeroportos: SBCT, SBFI, SBLO e SBMG;
+# Estado: Parana;
+# Aeroportos: SBCT, SBFI, SBLO e SBMG;
